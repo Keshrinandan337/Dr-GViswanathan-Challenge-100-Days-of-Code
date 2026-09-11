@@ -1,38 +1,104 @@
-# Dr G Viswanathan Challenge - 100 Days of Coding 🚀
+# 🚀 100 Days of DSA — Dr. G. Viswanathan Challenge
 
-This repository contains my solutions and progress for the #DrGViswanathanChallenge organized by VIT Bhopal University.
+> **100 Days. Consistency. Problem Solving. Growth. 💻🔥**
 
-## Goal
-- Strengthen DSA fundamentals
-- Solve LeetCode problems consistently
-- Progress from Easy → Medium → Hard problems
-- Improve problem-solving skills and coding consistency
+Welcome to my **100 Days of DSA journey** as part of the **Dr. G. Viswanathan Challenge**.
 
-## Progress
+Over these 100 days, I consistently solved Data Structures and Algorithms problems, primarily using **C++**, with the goal of strengthening my problem-solving skills, improving algorithmic thinking, and preparing for technical interviews.
 
-### Day 1
-- Number of 1 Bits
-- Subtract the Product and Sum of Digits of an Integer
+---
 
-### Day 2
-- Intersection of Two Arrays
-- Unique Number of Occurrences
+## 🎯 Challenge Goal
 
-### Day 3
-- Power of Two
-- Find All Duplicates in an Array
+The goal of this challenge was simple:
 
-### Day 4
-- Reverse Integer
-- Complement of Base 10 Integer
+**Solve DSA problems every day for 100 consecutive days.**
 
-### Day 5
-- Largest Odd Number in String
+Throughout the journey, I focused not only on solving problems but also on understanding:
 
-### Day 6
-- Count of Matches in Tournament
+- 🧠 Problem-solving techniques
+- ⚡ Time and space complexity
+- 🔍 Pattern recognition
+- 🏗️ Data structures
+- 📈 Algorithm optimization
+- 💡 Writing clean and efficient code
 
-### Day 7
-- Find Pivot Index
+---
 
-🔥 Current Streak: 7 Days
+## 📊 Challenge Progress
+
+| Day | Status |
+|-----|--------|
+| Day 01 | ✅ Completed |
+| Day 02 | ✅ Completed |
+| Day 03 | ✅ Completed |
+| ... | ... |
+| Day 99 | ✅ Completed |
+| **Day 100** | 🏆 **Completed** |
+
+### 🏆 Challenge Status: **100/100 Completed**
+
+---
+
+## 📚 Topics Covered
+
+During these 100 days, I worked on problems involving:
+
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Stack
+- Queue
+- Deque
+- Binary Search
+- Sorting
+- Greedy Algorithms
+- Recursion
+- Dynamic Programming
+- Matrix
+- Prefix Sum
+- Subarrays & Subsequences
+- Mathematical Problems
+- Other DSA Patterns
+
+---
+
+## 🛠️ Language & Platform
+
+### Language
+- **C++**
+
+### Platform
+- **LeetCode**
+
+### Concepts Practiced
+- STL
+- Vectors
+- Maps & Unordered Maps
+- Sets
+- Stacks
+- Queues
+- Deques
+- Recursion
+- Dynamic Programming
+- Algorithmic Optimization
+
+---
+
+## 📁 Repository Structure
+
+The repository is organized day-wise so that each day's progress can be easily tracked.
+
+```text
+100-Days-Dr-G-Viswanathan-Challenge/
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Day-04/
+│   ...
+├── Day-98/
+├── Day-99/
+└── Day-100/
